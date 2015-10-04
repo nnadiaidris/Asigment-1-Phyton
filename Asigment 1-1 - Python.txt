@@ -1,0 +1,6 @@
+Python 2.7.10 (default, May 23 2015, 09:40:32) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> fob=open('c:/test2015/nadia.txt','w')
+>>> fob.write('Name:Nurul Nadia Idris\nMatrix No:2014243398 \nGender:Female\nAge:27\nE-mails:n.nadiaidris@gmail.com\nMobile Phone:017-4727861\n')
+>>> fob.close()
+>>> 
